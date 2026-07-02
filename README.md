@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
