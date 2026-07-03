@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
