@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -98,10 +100,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
