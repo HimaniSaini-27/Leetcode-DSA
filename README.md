@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
