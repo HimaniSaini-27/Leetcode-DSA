@@ -19,6 +19,7 @@
 | [0011-container-with-most-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
