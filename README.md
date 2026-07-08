@@ -79,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0704-binary-search) |
@@ -194,6 +195,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
