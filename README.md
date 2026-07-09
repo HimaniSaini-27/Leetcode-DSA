@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0162-find-peak-element) |
@@ -109,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -117,6 +119,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
@@ -127,6 +130,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0739-daily-temperatures) |
@@ -206,6 +210,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [1314-matrix-block-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 ## Math
 |  |
