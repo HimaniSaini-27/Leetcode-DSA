@@ -53,6 +53,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0015-3sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [1552-magnetic-force-between-two-balls](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Greedy
 |  |
