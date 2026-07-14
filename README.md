@@ -91,6 +91,7 @@
 | [0076-minimum-window-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
@@ -139,6 +140,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
@@ -247,4 +249,8 @@
 | [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
