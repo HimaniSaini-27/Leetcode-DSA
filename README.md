@@ -76,6 +76,7 @@
 | [0344-reverse-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
