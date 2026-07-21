@@ -90,6 +90,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
@@ -141,6 +142,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -244,6 +246,7 @@
 | [0069-sqrtx](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
@@ -255,5 +258,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
