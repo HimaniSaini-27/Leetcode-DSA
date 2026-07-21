@@ -99,6 +99,7 @@
 | [0567-permutation-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0739-daily-temperatures](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
