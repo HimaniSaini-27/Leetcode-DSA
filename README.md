@@ -155,6 +155,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0227-basic-calculator-ii) |
@@ -199,6 +200,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0901-online-stock-span) |
