@@ -90,6 +90,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
