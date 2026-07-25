@@ -294,6 +294,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -309,6 +310,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
