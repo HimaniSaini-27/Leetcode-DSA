@@ -45,6 +45,7 @@
 | [0321-create-maximum-number](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
@@ -164,6 +165,7 @@
 | [0152-maximum-product-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
