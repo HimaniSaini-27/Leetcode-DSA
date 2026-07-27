@@ -27,6 +27,7 @@
 | [0063-unique-paths-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -344,4 +345,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
