@@ -239,6 +239,7 @@
 | [0155-min-stack](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -352,6 +353,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0707-design-linked-list) |
 ## Backtracking
 |  |
 | ------- |
