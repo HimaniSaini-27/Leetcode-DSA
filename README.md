@@ -79,6 +79,7 @@
 | [0075-sort-colors](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -226,6 +227,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -355,6 +357,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
