@@ -375,6 +375,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
