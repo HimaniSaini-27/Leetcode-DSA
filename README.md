@@ -253,6 +253,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -266,6 +267,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -405,6 +407,7 @@
 | [0141-linked-list-cycle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
@@ -434,4 +437,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
