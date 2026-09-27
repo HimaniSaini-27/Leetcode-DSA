@@ -54,6 +54,7 @@
 | [0503-next-greater-element-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0724-find-pivot-index) |
@@ -274,6 +275,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -321,6 +323,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -419,6 +422,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
