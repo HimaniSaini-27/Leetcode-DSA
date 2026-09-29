@@ -6,17 +6,20 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0085-maximal-rectangle](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0224-basic-calculator) |
