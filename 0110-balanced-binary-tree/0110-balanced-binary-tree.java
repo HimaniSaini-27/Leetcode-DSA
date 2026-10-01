@@ -13,17 +13,31 @@
  *     }
  * }
  */
+
 class Solution {
+    boolean flag = true;
+
     public boolean isBalanced(TreeNode root) {
-        if(balanced(root)==-1) return false;
-        return true;
+        if (root == null)
+            return true;
+
+        flag = true;
+        check(root);
+        return flag;
     }
-    public int balanced(TreeNode root){
-        if(root==null) return 0;
-        int left = balanced(root.left);
-        int right = balanced(root.right);
-        if(left==-1 || right==-1) return -1;
-        if(Math.abs(left-right)>1) return -1;
-        return Math.max(left, right)+1;
-    } 
+
+    public int check(TreeNode n) {
+        int l = 0;
+        int r = 0;
+
+        if (n.left != null)
+            l = check(n.left);
+        if (n.right != null)
+            r = check(n.right);
+
+        if (Math.abs(l - r) > 1)
+            flag = false;
+
+        return Math.max(l, r) + 1;
+    }
 }
