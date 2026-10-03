@@ -106,6 +106,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1314-matrix-block-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1470-shuffle-the-array](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
