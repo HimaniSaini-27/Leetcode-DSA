@@ -86,6 +86,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0321-create-maximum-number) |
+| [0349-intersection-of-two-arrays](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0494-target-sum) |
@@ -141,6 +142,7 @@
 | [0283-move-zeroes](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
@@ -152,6 +154,7 @@
 | [0015-3sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -194,6 +197,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -304,6 +308,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/HimaniSaini-27/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
